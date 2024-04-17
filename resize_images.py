@@ -1,6 +1,6 @@
 import os
 import glob
-import cv2
+import cv2, mataplotlib, pillow
 
 if __name__ == "__main__":
     import argparse
